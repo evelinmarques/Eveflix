@@ -1,2 +1,4 @@
 # Eveflix
- Repositório dedicado ao projeto desenvolvido na Imersão React da Alura.
+Projeto desenvolvido durante a Imersão React da Alura.
+
+## Em Construção 🚧
